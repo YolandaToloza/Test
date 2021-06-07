@@ -1,4 +1,0 @@
-<h1>Hola<h1>
-Hola a todos
-
-Esto es una prueba
